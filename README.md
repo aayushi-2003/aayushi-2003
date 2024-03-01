@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Aayushi Sinha !
-- 👀 I’m interested in Front-End Web Design
-- 🌱 I’m currently a Second-Year Computer Science and Engineering Undergraduate
+- 👀 I’m interested in Front-End Web Development, Machine Learning, Computer Vision and UI/UX Design
+- 🌱 I’m currently a Third-Year Computer Science and Engineering Undergraduate
