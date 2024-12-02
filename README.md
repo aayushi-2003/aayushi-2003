@@ -27,6 +27,7 @@
 
 <h4> Data Science and ML </h4>
 
+- [Social Engineering Attack Detection (Phishing URL classification)](https://github.com/aayushi-2003/Social-Engineering-Detection) - Python, Pandas
 - [SMS Spam Classifier](https://github.com/aayushi-2003/sms-spam-classifier) - Python, NLTK, Pandas
 - [Air Canvas](https://github.com/aayushi-2003/AirCanvas) - Python, OpenCV, MediaPipe
 - [Virtual Keyboard](https://github.com/aayushi-2003/Virtual-Keyboard) - Python, OpenCV, MediaPipe
