@@ -28,6 +28,7 @@
 <h4> Data Science and ML </h4>
 
 - [Social Engineering Attack Detection (Phishing URL classification)](https://github.com/aayushi-2003/Social-Engineering-Detection) - Python, Pandas
+- [Greatest Tennis Player Prediction](https://github.com/aayushi-2003/Greatest-Tennis-Player-Prediction) - Python, Pandas
 - [SMS Spam Classifier](https://github.com/aayushi-2003/sms-spam-classifier) - Python, NLTK, Pandas
 - [Air Canvas](https://github.com/aayushi-2003/AirCanvas) - Python, OpenCV, MediaPipe
 - [Virtual Keyboard](https://github.com/aayushi-2003/Virtual-Keyboard) - Python, OpenCV, MediaPipe
@@ -40,6 +41,7 @@
 <h4> Web Development </h4>
 
 - [Portfolio Website](https://github.com/aayushi-2003/Aayushi-Sinha-Portfolio) - TailwindCSS, ReactJS
+- [CourseMate - A Course Management App](https://github.com/aayushi-2003/CoursesApp) - TailwindCSS, ReactJS
 - [LearnWave Landing Page](https://github.com/aayushi-2003/LearnWave) - TailwindCSS, ReactJS
 - [Velocity Landing Page](https://github.com/Velocity-IIITDWD/velocity) - TailwindCSS, JavaScript
 - [Restaurant Website](https://github.com/aayushi-2003/Restaurant-website) - TailwindCSS, JavaScript
