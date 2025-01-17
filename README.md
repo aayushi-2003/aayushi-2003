@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **AI/ML and UX Design**
 
-- 👨‍💻 All of my projects are available at [https://aayushi-2003.github.io/Aayushi-Sinha-Portfolio/](https://aayushi-sinha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://aayushi-sinha-portfolio.vercel.app/](https://aayushi-sinha-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://aayushi-2003.hashnode.dev/css-frameworks-a-beginners-guide](https://aayushi-2003.hashnode.dev/css-frameworks-a-beginners-guide)
 
